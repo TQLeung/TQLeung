@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TQLeung
 - 👀 I’m interested in C/C++,Rust.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust/Wasm.
 - 💞️ I’m looking to collaborate on making money!
 - 📫 How to reach me tqleung@126.com
 
