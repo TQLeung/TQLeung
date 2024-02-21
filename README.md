@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TQLeung / Louys
-- 👀 I’m interested in C/C++,Rust,Node.
-- 🌱 I’m currently learning Rust/Embedded/Wasm/Blockchain.
+- 👀 I’m interested in C/C++,Rust.
+- 🌱 I’m currently using Rust for Web backend/Embedded Learning/Wasm Learing.
 - 💞️ I’m looking to collaborate on making money!
 - 📫 How to reach me tqleung@126.com
 
